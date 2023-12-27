@@ -5,3 +5,6 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Harihara04sudhan)](https://github.com/Harihara04sudhan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harihara04sudhan&layout=compact)](https://github.com/Harihara04sudhan)
+
+
+<a href="https://www.linkedin.com/in/r-harihara-sudhan-71b405258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=”left” src=”https://raw.githubusercontent.com/Harihara04sudhan/Harihara04sudhan/main/images/linkedin.svg" alt=”r-harihara-sudhan | LinkedIn” width=”21px”/></a>
