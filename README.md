@@ -3,8 +3,6 @@
 - 🌱 Learning and expert in problem solving.... 
 - 💞️ looking to collaborate with Microsoft... 
 - 📫 Always positive vibes..... 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Harihara04sudhan)](https://github.com/Harihara04sudhan)
 
-<!---
-Harihara04sudhan/Harihara04sudhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harihara04sudhan&layout=compact)](https://github.com/Harihara04sudhan)
