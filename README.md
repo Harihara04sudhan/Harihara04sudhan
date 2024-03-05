@@ -25,9 +25,10 @@
 <p align="left">
 <a href="https://twitter.com/rhariharasudh13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhariharasudh13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/r-harihara-sudhan-71b405258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="r-harihara-sudhan-71b405258" height="30" width="40" /></a>
-<a href="https://fb.com/100042036860747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harihara sudhan" height="30" width="40" /></a>
+<a href="https://fb.com/harihara sudhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harihara sudhan" height="30" width="40" /></a>
 <a href="https://instagram.com/hari__sudhan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hari__sudhan___" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harionlyaiuse241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harionlyaiuse241" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user9416kw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user9416kw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
