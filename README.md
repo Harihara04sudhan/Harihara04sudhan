@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Bizify**
 
-- 🌱 I’m currently learning **react native,angular....**
+- 🌱 I’m currently learning **AI and ML with DL....**
 
-- 👯 I’m looking to collaborate on **unstop**
+- 👯 I’m looking to collaborate on **GOOGLE**
 
 - 🤝 I’m looking for help with **Backend development**
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **harisudhan2284@gmail.com**
 
-- ⚡ Fun fact **I can survive in all situations.**
+- ⚡ True fact **I can survive in all situations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
