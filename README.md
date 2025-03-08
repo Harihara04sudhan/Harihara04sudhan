@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/rhariharasudh13" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/follow/rhariharasudh13?logo=twitter&style=for-the-badge" alt="rhariharasudh13" /></a> </p>
 
-- 🔭 I’m currently working on **Bizify**
+- 🔭 I’m currently working on **GOD_MODE**
 
-- 🌱 I’m currently learning **AI and ML with DL....**
+- 🌱 I’m currently learning **Blockchain, AI and ML with DL....**
 
 - 👯 I’m looking to collaborate on **GOOGLE**
 
