@@ -21,9 +21,11 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+
 <div align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harihara04sudhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
+
 
 <div align="center">
   <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harihara04sudhan&theme=github_dark" alt="Contribution Graph" />
@@ -35,11 +37,11 @@
 
 - 🔭 I'm currently working on **[ MATRIX ]**
 - 🌱 I'm currently learning **Blockchain, AI and ML with DL**
-- 👯 I'm looking to collaborate with **GOOGLE**
+- 👯 I'm looking for collaboration opportunities, including at **GOOGLE**
 - 🤝 I'm looking for help with **Backend Development**
 - 💬 Ask me about **React**
 - 📫 Reach me at **harisudhan2284@gmail.com**
-- ⚡ True fact: **I can survive in all situations.**
+- ⚡ Fun fact: **I can survive in all situations.**
 
 ---
 
