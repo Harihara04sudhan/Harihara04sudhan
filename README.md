@@ -39,3 +39,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harihara04sudhan&show_icons=true&locale=en" alt="harihara04sudhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&" alt="harihara04sudhan" /></p>
+
+<!-- Add an eye-catching contribution graph -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harihara04sudhan&theme=github" alt="harihara04sudhan's contribution graph"/>
+</p>
