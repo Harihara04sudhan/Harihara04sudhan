@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harihara04sudhan" alt="harihara04sudhan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/rhariharasudh13" target="blank"><img src="https://img.shields.io/twitter/url/https/twitter.com/follow/rhariharasudh13?logo=twitter&style=for-the-badge" alt="rhariharasudh13" /></a> </p>
+[![Twitter Follow](https://img.shields.io/twitter/follow/rhariharasudh13?style=social)](https://twitter.com/rhariharasudh13)
 
 - 🔭 I’m currently working on **[ MATRIX ]**
 
