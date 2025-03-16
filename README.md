@@ -18,12 +18,24 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=harihara04sudhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&theme=tokyonight" alt="GitHub Streak" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
-
+</div>
+  <!-- Languages Card -->
+  <div style="background-color: #1a1b27; border-radius: 6px; padding: 16px; border: 1px solid #2d2f47; margin-bottom: 20px;">
+    <h3 style="color: #70a5fd; margin-top: 0; text-align: center;">Most Used Languages</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 16px;">
+      <span><img src="https://img.shields.io/badge/Jupyter-99.26%25-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter Notebook" /></span>
+      <span><img src="https://img.shields.io/badge/MDX-0.45%25-F9AC00?style=flat-square&logo=mdx&logoColor=white" alt="MDX" /></span>
+      <span><img src="https://img.shields.io/badge/Python-0.16%25-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></span>
+      <span><img src="https://img.shields.io/badge/HTML-0.07%25-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" /></span>
+      <span><img src="https://img.shields.io/badge/CSS-0.04%25-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" /></span>
+      <span><img src="https://img.shields.io/badge/JavaScript-0.01%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /></span>
+    </div>
+  </div>
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harihara04sudhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=harihara04sudhan&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />
 </div>
 
 
