@@ -136,7 +136,7 @@
     <a href="https://twitter.com/rhariharasudh13" target="_blank">
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/X_logo_2023.svg" alt="Twitter" width="40" height="40" />
     </a>&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/r-harihara-sudhan-71b405258" target="_blank">
+    <a href="https://www.linkedin.com/in/harihara-sudhan-r-71b405258/" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
     </a>&nbsp;&nbsp;
     <a href="https://instagram.com/hari__sudhan___" target="_blank">
