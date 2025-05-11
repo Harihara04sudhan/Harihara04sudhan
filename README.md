@@ -17,9 +17,9 @@
   ### 📊 GitHub Stats & Activity
   
   <div align="center">
-    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=harihara04sudhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api?username=harihara04sudhan&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     <img width="48%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&theme=tokyonight" alt="GitHub Streak" />
-  </div>
+ </div>
   
   </div>
     <!-- Languages Card -->
