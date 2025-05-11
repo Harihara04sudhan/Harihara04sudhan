@@ -9,14 +9,19 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=harihara04sudhan&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <a href="https://twitter.com/rhariharasudh13" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/rhariharasudh13?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
-  </a>
-  <img src="https://img.shields.io/badge/Total%20Commits-999%2B-brightgreen?style=for-the-badge" alt="Total Commits" />
-  <a href="mailto:harisudhan2284@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email Me" />
-  </a>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=harihara04sudhan&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=eye" alt="Profile views" />
+    &nbsp;&nbsp;
+    <a href="https://twitter.com/rhariharasudh13" target="_blank">
+      <img src="https://img.shields.io/twitter/follow/rhariharasudh13?logo=x&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="Twitter Follow" />
+    </a>
+    &nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Total%20Commits-999%2B-brightgreen?style=for-the-badge&logo=git" alt="Total Commits" />
+    &nbsp;&nbsp;
+    <a href="mailto:harisudhan2284@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail" alt="Email Me" />
+    </a>
+  </p>
 </div>
 
 <br/>
@@ -161,26 +166,33 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Connect with me
 
-<p align="center">
-  <a href="https://twitter.com/rhariharasudh13" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://www.linkedin.com/in/harihara-sudhan-r-71b405258/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/hari__sudhan___" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/harionlyaiuse241" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-  <a href="https://www.leetcode.com/user9416kw" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
-  <a href="mailto:harisudhan2284@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+  <p>
+    <a href="https://twitter.com/rhariharasudh13" target="_blank">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/harihara-sudhan-r-71b405258/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/hari__sudhan___" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
+    <br><br>
+    <a href="https://www.hackerrank.com/profile/harionlyaiuse241" target="_blank">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.leetcode.com/user9416kw" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:harisudhan2284@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
