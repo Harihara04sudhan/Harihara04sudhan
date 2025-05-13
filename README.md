@@ -297,8 +297,14 @@ gantt
     <h4>🔍 AI/ML Skills Breakdown</h4>
     <table>
       <tr>
-        <td>
-          <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=harihara04sudhan&skills=pytorch,tensorflow,pandas,numpy,jupyter-notebook,python,scikit-learn&width=700" alt="CodersRank Skills Chart" />
+        <td align="center">
+          <img src="https://img.shields.io/badge/PyTorch-85%25-orange?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" width="200" />
+          <img src="https://img.shields.io/badge/TensorFlow-80%25-orange?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" width="200" />
+          <img src="https://img.shields.io/badge/Pandas-90%25-brightgreen?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" width="200" />
+          <br/>
+          <img src="https://img.shields.io/badge/NumPy-85%25-green?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" width="200" />
+          <img src="https://img.shields.io/badge/Scikit--Learn-75%25-yellow?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" width="200" />
+          <img src="https://img.shields.io/badge/Python-95%25-brightgreen?style=flat-square&logo=python&logoColor=white" alt="Python" width="200" />
         </td>
       </tr>
     </table>
