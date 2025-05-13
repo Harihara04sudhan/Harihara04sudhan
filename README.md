@@ -3,9 +3,9 @@
 </div>
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/thevedicdeveloper/devicon/master/icons/react/animated/react-original.gif" width="25" height="25"/>
-  <span>A passionate Full Stack Developer and AI/ML Aspirant from India</span> 
-  <img src="https://raw.githubusercontent.com/blackcater/blackcater/main/images/Hi.gif" height="24"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" height="25"/>
+  <span>Full Stack Developer & AI/ML Engineer specializing in deep learning models</span> 
+  👋
 </h3>
 
 <div align="center">
@@ -92,6 +92,132 @@
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 </div>
 
+## <img src="https://media.giphy.com/media/QWvra259h4LCvdJnxP/giphy.gif" width="30" alt="Brain"> AI/ML Learning Journey
+
+```mermaid
+journey
+  title My AI/ML Learning Path
+  section Foundations
+    Python & Math: 5
+    Data Analysis: 5
+    ML Fundamentals: 4
+  section Advanced
+    Deep Learning: 4
+    NLP: 3
+    Computer Vision: 3
+  section Specialized
+    MLOps: 2
+    Transformers: 3
+    Generative AI: 2
+```
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">🏆 <b>Recent Achievements</b>:</td>
+    </tr>
+    <tr>
+      <td>✅ Completed <b>Deep Learning Specialization</b> on Coursera</td>
+    </tr>
+    <tr>
+      <td>✅ Deployed a fine-tuned model on Hugging Face Hub</td>
+    </tr>
+    <tr>
+      <td>✅ Built a real-time object detection system</td>
+    </tr>
+    <tr>
+      <td>✅ Participated in Kaggle competitions</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
+</div>
+
+## <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="30" alt="Chart"> My AI/ML Development Progress
+
+```mermaid
+gantt
+    title AI/ML Development Journey
+    dateFormat  YYYY-MM-DD
+    section Learning
+    Python Fundamentals       :done,    pfund,   2022-01-01, 90d
+    Data Science Basics       :done,    dsci,    after pfund, 120d
+    Machine Learning          :done,    ml,      after dsci, 150d
+    Deep Learning             :active,  dl,      after ml, 180d
+    
+    section Projects
+    Image Classification      :done,    ic,      2022-05-15, 60d
+    NLP Sentiment Analysis    :done,    nlp,     2022-07-20, 90d
+    Object Detection          :active,  od,      2023-01-10, 120d
+    LLM Fine-tuning           :         llm,     after od, 150d
+    
+    section Certifications
+    ML Specialization         :done,    mlsp,    2022-06-01, 30d
+    Deep Learning Specialization:active, dlsp,   2023-02-01, 60d
+    TensorFlow Certification  :         tfc,     after dlsp, 45d
+```
+
+<div align="center">
+  <table>
+    <tr>
+      <th>AI/ML Focus</th>
+      <th>Current Progress</th>
+      <th>Next Steps</th>
+      <th>Long-term Goal</th>
+    </tr>
+    <tr>
+      <td>Deep Learning</td>
+      <td>
+        <img src="https://img.shields.io/badge/Proficiency-75%25-brightgreen?style=flat-square&logo=tensorflow&logoColor=white" alt="75%" width="120" />
+      </td>
+      <td>Model Optimization</td>
+      <td>Research Paper</td>
+    </tr>
+    <tr>
+      <td>Natural Language Processing</td>
+      <td>
+        <img src="https://img.shields.io/badge/Proficiency-65%25-yellow?style=flat-square&logo=huggingface&logoColor=white" alt="65%" width="120" />
+      </td>
+      <td>LLM Fine-tuning</td>
+      <td>Custom LLM Solution</td>
+    </tr>
+    <tr>
+      <td>Computer Vision</td>
+      <td>
+        <img src="https://img.shields.io/badge/Proficiency-70%25-green?style=flat-square&logo=opencv&logoColor=white" alt="70%" width="120" />
+      </td>
+      <td>Advanced Object Detection</td>
+      <td>Real-time CV System</td>
+    </tr>
+    <tr>
+      <td>MLOps</td>
+      <td>
+        <img src="https://img.shields.io/badge/Proficiency-50%25-orange?style=flat-square&logo=docker&logoColor=white" alt="50%" width="120" />
+      </td>
+      <td>Automated Pipelines</td>
+      <td>Full CI/CD for ML</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
+</div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
+</div>
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Featured Projects
 
 <div align="center">
@@ -108,9 +234,25 @@
 
 | Project | Tech Stack | Description | Link |
 |---------|-----------|-------------|------|
-| **MATRIX** | React, Node.js, AI | Next-gen virtual environment platform | [Visit Site](https://enter.thematrix.app/) |
-| **AI Image Generator** | Python, TensorFlow | Creates AI-generated images from text descriptions | [GitHub](https://github.com/harihara04sudhan/) |
-| **Full-Stack E-commerce** | MERN Stack | Complete e-commerce solution with payment integration | [GitHub](https://github.com/harihara04sudhan/) |
+| **Decentralized Crowdfunding DApp** | React.js, Solidity, Web3 | Web3-based crowdfunding platform enabling secure and transparent fundraising with smart contracts | [GitHub](https://github.com/harihara04sudhan/) |
+| **Fuzzy Name Matching with RAG Search** | Python, FastAPI, PostgreSQL | RAG-based search system for police records with 98% accuracy for Hindi name variations | [GitHub](https://github.com/harihara04sudhan/) |
+| **Intrusion Detection System** | FCNN, GAN, React, Flask | IDS for IEC-61850 protocol in substations with 95% detection accuracy and 30% reduced false positives | [GitHub](https://github.com/harihara04sudhan/) |
+| **Tumor Detection in Pancreatic MRIs** | Attention U-Net, Grad-CAM | Deep learning model for pancreatic tumor detection with 75% accuracy and enhanced explainability | [GitHub](https://github.com/harihara04sudhan/) |
+| **UJAL - AI Support for Women** | React, FastAPI, MongoDB, Clerk | AI platform providing SOS messaging via steganography, mental health chatbot, and legal rights assistance | [GitHub](https://github.com/harihara04sudhan/) |
+
+<details>
+<summary>📊 AI/ML Project Metrics</summary>
+<div align="center">
+  
+| Project | Accuracy | Detection Rate | False Positive Reduction | Dataset |
+|---------|----------|----------|------------|---------|
+| Fuzzy Name Matching | 98% | - | 30% | Police Records |
+| Intrusion Detection System | 95% | - | 30% | IEC-61850 Protocol Data |
+| Pancreatic Tumor Detection | 75% | - | - | Medical Decathlon |
+| UJAL SOS System | - | 90% | - | Custom Dataset |
+  
+</div>
+</details>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -140,9 +282,27 @@
 
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
   ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-  ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+  ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge)
+  ![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
+  <div align="center">
+    <h4>🔍 AI/ML Skills Breakdown</h4>
+    <table>
+      <tr>
+        <td>
+          <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=harihara04sudhan&skills=pytorch,tensorflow,pandas,numpy,jupyter-notebook,python,scikit-learn&width=700" alt="CodersRank Skills Chart" />
+        </td>
+      </tr>
+    </table>
+  </div>
 
   ### ☁️ Cloud & DevOps
 
@@ -192,18 +352,37 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
+  
+  <h3>🌐 AI Community Involvement</h3>
+  <p>
+    <a href="https://huggingface.co/" target="_blank">
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.kaggle.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+    </a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://paperswithcode.com/" target="_blank">
+      <img src="https://img.shields.io/badge/Papers_With_Code-21CBFF?style=for-the-badge&logo=paperswithcode&logoColor=white" alt="Papers With Code" />
+    </a>
+  </p>
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
 </div>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
+  
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  
+  <br/><br/><br/>
+</div>
+
+<div align="center">
   <p>💙 If you like my projects, Give them ⭐ and Share them!</p>
 </div>
 
