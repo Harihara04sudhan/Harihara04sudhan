@@ -830,8 +830,8 @@ Specializations:
       <td width="50%">
         <h4>📈 Engagement Metrics</h4>
         <div align="center">
-          <img src="https://img.shields.io/badge/LinkedIn_Connections-2500+-0077B5?style=for-the-badge&logo=linkedin" /><br/>
-          <img src="https://img.shields.io/badge/GitHub_Followers-500+-black?style=for-the-badge&logo=github" /><br/>
+          <img src="https://img.shields.io/badge/LinkedIn_Connections-1100+-0077B5?style=for-the-badge&logo=linkedin" /><br/>
+          <img src="https://img.shields.io/badge/GitHub_Followers-20+-black?style=for-the-badge&logo=github" /><br/>
           <img src="https://img.shields.io/badge/Twitter_Engagement-Growing-1DA1F2?style=for-the-badge&logo=twitter" /><br/>
           <img src="https://img.shields.io/badge/Tech_Talks-5+_Given-purple?style=for-the-badge&logo=speaker" /><br/>
           <img src="https://img.shields.io/badge/Mentoring-20+_Students-green?style=for-the-badge&logo=graduation-cap" />
