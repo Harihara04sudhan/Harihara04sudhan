@@ -327,19 +327,19 @@ Medical Impact:
 <div align="center">
   <table>
     <tr>
-      <td align="center">✅ **System Design**</td>
-      <td align="center">✅ **RESTful APIs**</td>
-      <td align="center">✅ **Data Structures & Algorithms**</td>
+      <td align="center">✅ System Design</td>
+      <td align="center">✅ RESTful APIs</td>
+      <td align="center">✅ Data Structures & Algorithms</td>
     </tr>
     <tr>
-      <td align="center">✅ **Microservices**</td>
-      <td align="center">✅ **Database Design**</td>
-      <td align="center">✅ **Code Optimization**</td>
+      <td align="center">✅ Microservices</td>
+      <td align="center">✅ Database Design</td>
+      <td align="center">✅ Code Optimization</td>
     </tr>
     <tr>
-      <td align="center">✅ **CI/CD Pipelines**</td>
-      <td align="center">✅ **Testing & Debugging**</td>
-      <td align="center">✅ **Agile Development**</td>
+      <td align="center">✅ CI/CD Pipelines</td>
+      <td align="center">✅ Testing & Debugging</td>
+      <td align="center">✅ Agile Development</td>
     </tr>
   </table>
 </div>
