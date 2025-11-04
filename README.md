@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harihara04sudhan&theme=algolia&row=1&column=6&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -50,22 +50,22 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harihara04sudhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harihara04sudhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="192px" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harihara04sudhan&theme=radical&hide_border=true" alt="GitHub Streak" height="192px" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="192px" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Harihara04sudhan&theme=radical&hide_border=true" alt="GitHub Streak" height="192px" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harihara04sudhan&theme=radical" alt="Contribution Graph" width="98%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harihara04sudhan&theme=radical" alt="Contribution Graph" width="98%"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harihara04sudhan&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="60%"/>
 
   <div> 
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
