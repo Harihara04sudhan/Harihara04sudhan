@@ -452,7 +452,7 @@ Medical Impact:
   </p>
   
   <p>
-    💙 <strong>If you like my work, please ⭐ my repositories!</strong><br/>
+    💙 <strong>If you like my work, please ⭐ my repositories......</strong><br/>
     🤝 <strong>Open to collaborations, freelance work, and full-time opportunities</strong><br/>
     🌐 <strong>Portfolio: <a href="https://harisudhan.xyz/" target="_blank">harisudhan.xyz</a></strong><br/>
     📧 <strong>Reach out: harisudhan2284@gmail.com</strong>
