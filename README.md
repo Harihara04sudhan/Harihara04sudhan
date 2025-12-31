@@ -41,9 +41,7 @@
 
 <!-- GitHub Trophies -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
@@ -53,14 +51,13 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats & Activity
 
 <div align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
-  </picture>
-  <picture>
-    <source srcset="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
-    <img src="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=default&hide_border=true" alt="GitHub Streak" height="180px"/>
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" height="180px"/>
+  <img src="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
+</div>
+
+<!-- Activity Graph with custom colors matching radical theme -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harihara04sudhan&bg_color=141321&color=fe428e&line=f8d847&point=fe428e&area=true&area_color=fe428e&hide_border=true" alt="Activity Graph" width="98%"/>
 </div>
 
 <div align="center">
@@ -69,7 +66,6 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harihara04sudhan&theme=radical&utcOffset=5.5" alt="Commits Time" height="180px"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harihara04sudhan&theme=radical" alt="Stats" height="180px"/>
 </div>
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Most Used Languages
