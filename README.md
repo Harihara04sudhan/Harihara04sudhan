@@ -67,6 +67,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Harihara04sudhan&theme=radical" alt="Contribution Graph" width="98%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Harihara04sudhan&theme=radical&utcOffset=5.5" alt="Commits Time" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harihara04sudhan&theme=radical" alt="Stats" height="180px"/>
+</div>
+
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Most Used Languages
 
 <div align="center">
