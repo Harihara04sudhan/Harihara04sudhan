@@ -39,8 +39,11 @@
 
 <br/>
 
+<!-- GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=algolia&row=1&column=6&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <div align="center">
@@ -50,12 +53,14 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harihara04sudhan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="90%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="192px" width="49%"/>
-  <img src="https://streak-stats.demolab.com/?user=Harihara04sudhan&theme=radical&hide_border=true" alt="GitHub Streak" height="192px" width="49%"/>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="180px"/>
+  </picture>
+  <picture>
+    <source srcset="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=radical&hide_border=true" media="(prefers-color-scheme: dark)" />
+    <img src="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=default&hide_border=true" alt="GitHub Streak" height="180px"/>
+  </picture>
 </div>
 
 <div align="center">
@@ -65,16 +70,16 @@
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&layout=compact" alt="Top Languages" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="50%"/>
+</div>
 
-  <div> 
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-    <img src="https://img.shields.io/badge/MDX-F9AC00?style=for-the-badge&logo=mdx&logoColor=white" alt="MDX" />
-  </div>
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
 </div>
 
 <div align="center">
@@ -87,7 +92,7 @@
 <tr>
 <td width="60%">
 
-### �‍💻 **Who Am I?**
+### 👨‍💻 **Who Am I?**
 
 🎓 **Final Year Computer Science Engineering Student**  
 💼 **Actively seeking Full-time SDE roles & Internships**  
@@ -129,15 +134,15 @@ What I Offer:
 
 | Area | Level |
 |------|-------|
-| **Full Stack Development** | ![95%](https://progress-bar.dev/95?color=4ECDC4) |
-| **AI/ML Engineering** | ![85%](https://progress-bar.dev/85?color=FF6B6B) |
-| **Data Structures & Algorithms** | ![90%](https://progress-bar.dev/90?color=45B7D1) |
-| **System Design** | ![75%](https://progress-bar.dev/75?color=FFA116) |
-| **Problem Solving** | ![90%](https://progress-bar.dev/90?color=764ba2) |
+| **Full Stack Development** | ![95%](https://img.shields.io/badge/95%25-4ECDC4?style=flat-square&logo=checkmarx&logoColor=white) |
+| **AI/ML Engineering** | ![85%](https://img.shields.io/badge/85%25-FF6B6B?style=flat-square&logo=tensorflow&logoColor=white) |
+| **Data Structures & Algorithms** | ![90%](https://img.shields.io/badge/90%25-45B7D1?style=flat-square&logo=leetcode&logoColor=white) |
+| **System Design** | ![75%](https://img.shields.io/badge/75%25-FFA116?style=flat-square&logo=blueprint&logoColor=white) |
+| **Problem Solving** | ![90%](https://img.shields.io/badge/90%25-764ba2?style=flat-square&logo=hackerrank&logoColor=white) |
 
-### � **Quick Stats**
+### 🚀 **Quick Stats**
 
-- � **20+ Projects** built & deployed
+- 🏗️ **20+ Projects** built & deployed
 - 🧩 **300+ DSA Problems** solved
 - 🤖 **5+ AI/ML Models** in production
 - 📚 **Continuous learner** & tech enthusiast
@@ -151,11 +156,6 @@ What I Offer:
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🌟 Featured Projects
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🚀_Portfolio-Production_Ready_Apps-4ECDC4?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/⭐_Quality-Enterprise_Grade-FF6B6B?style=for-the-badge&labelColor=45B7D1&color=FF6B6B" alt="Quality"/>
-</div>
 
 ### 💼 **Project Highlights**
 
@@ -229,31 +229,6 @@ Medical Impact:
 </td>
 </tr>
 </table>
-
-### 🎯 **Technical Achievements**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Projects_Built-20+-4ECDC4?style=for-the-badge&logo=rocket&logoColor=white" /><br/>
-        <strong>Diverse Portfolio</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Tech_Stack-MERN_+_AI/ML-brightgreen?style=for-the-badge&logo=stack&logoColor=white" /><br/>
-        <strong>Full Stack</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Code_Quality-Clean_&_Maintainable-orange?style=for-the-badge&logo=code&logoColor=white" /><br/>
-        <strong>Best Practices</strong>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Deployment-Cloud_Ready-red?style=for-the-badge&logo=cloud&logoColor=white" /><br/>
-        <strong>Production Grade</strong>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -390,40 +365,12 @@ Medical Impact:
   </table>
 </div>
 
-### 💡 **Open For Opportunities**
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/💼_Full_Time-SDE_Roles-4ECDC4?style=for-the-badge" /><br/>
-        <small>Software Engineer positions</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🎓_Internships-Summer_2025-FF6B6B?style=for-the-badge" /><br/>
-        <small>Technical internships</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🚀_Freelance-Projects_&_Consulting-45B7D1?style=for-the-badge" /><br/>
-        <small>Contract work welcome</small>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://img.shields.io/badge/🤝_Collaboration-Open_Source-764ba2?style=for-the-badge" /><br/>
-        <small>Team projects & contributions</small>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ### 📞 **Get In Touch**
 
 <div align="center">
   <p>
-    💼 <strong>Looking for:</strong> Full-time SDE roles, Internships, Freelance projects<br/>
-    🎯 <strong>Interested in:</strong> Full Stack Development, AI/ML Engineering, System Design<br/>
     🌍 <strong>Location:</strong> Open to remote & relocation opportunities<br/>
-    ⚡ <strong>Availability:</strong> Ready to start from January 2026 | Graduating May 2026<br/>
-    🌐 <strong>Portfolio:</strong> <a href="https://harisudhan.xyz/" target="_blank">harisudhan.xyz</a>
+    ⚡ <strong>Availability:</strong> Ready to start from January 2026 | Graduating May 2026
   </p>
   
   <a href="mailto:harisudhan2284@gmail.com?subject=Opportunity Discussion&body=Hi Harihara, I found your profile interesting...">
@@ -435,35 +382,29 @@ Medical Impact:
   <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%" alt="Separator">
 </div>
 
+<!-- Footer Section -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
   <h2>🐍 Contribution Activity</h2>
   
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Harihara04sudhan/Harihara04sudhan/output/github-contribution-grid-snake.svg" width="100%">
   
   <br/><br/>
-  
-  <h2>💼 Ready for New Opportunities!</h2>
-  <p>
-    <img src="https://img.shields.io/badge/🎓_Graduating-May_2026-4ECDC4?style=for-the-badge&labelColor=FF6B6B&color=4ECDC4" alt="Graduating 2026"/>
-    <img src="https://img.shields.io/badge/💼_Available_From-January_2026-00C853?style=for-the-badge&labelColor=00E676&color=00C853" alt="Available Jan 2026"/>
-    <img src="https://img.shields.io/badge/🚀_Open_For-Freelance_&_Full--time-FF6B6B?style=for-the-badge&labelColor=764ba2&color=FF6B6B" alt="Open For Work"/>
-  </p>
   
   <p>
     💙 <strong>If you like my work, please ⭐ my repositories......</strong><br/>
     🤝 <strong>Open to collaborations, freelance work, and full-time opportunities</strong><br/>
-    🌐 <strong>Portfolio: <a href="https://harisudhan.xyz/" target="_blank">harisudhan.xyz</a></strong><br/>
-    📧 <strong>Reach out: harisudhan2284@gmail.com</strong>
+    🌐 <strong>Portfolio: <a href="https://harisudhan.xyz/" target="_blank">harisudhan.xyz</a></strong>
   </p>
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
-  <p>
-    <strong>Thanks for visiting! 😊</strong><br/>
-    <img src="https://profile-counter.glitch.me/harihara04sudhan/count.svg" alt="Visitor Count" />
-  </p>
+  <h3>Thanks for visiting! 😊</h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=Harihara04sudhan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  <br/><br/>
   
   <p>
     <em>"The best way to predict the future is to create it." - Peter Drucker</em>
