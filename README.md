@@ -39,9 +39,15 @@
 
 <br/>
 
-<!-- GitHub Trophies -->
+<!-- GitHub Achievements/Trophies using shields.io (always works) -->
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Harihara04sudhan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/🏆_Achievements-brightgreen?style=for-the-badge" alt="Achievements"/>
+  <img src="https://img.shields.io/badge/⭐_MultiLanguage-Expert-blue?style=flat-square" alt="MultiLanguage"/>
+  <img src="https://img.shields.io/badge/🔥_Committed-Daily_Coder-orange?style=flat-square" alt="Committed"/>
+  <img src="https://img.shields.io/badge/📦_Repositories-32+-purple?style=flat-square" alt="Repos"/>
+  <img src="https://img.shields.io/badge/🤝_Pull_Requests-23+-green?style=flat-square" alt="PRs"/>
+  <img src="https://img.shields.io/badge/⭐_Stars_Earned-3-yellow?style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/badge/👥_Followers-28-blue?style=flat-square" alt="Followers"/>
 </div>
 
 <div align="center">
@@ -50,8 +56,18 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Stats & Activity
 
+<!-- Contribution Summary Badges -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harihara04sudhan&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" height="180px"/>
+  <img src="https://img.shields.io/badge/Total_Contributions-671+-fe428e?style=for-the-badge&logo=github&logoColor=white" alt="Total Contributions"/>
+  <img src="https://img.shields.io/badge/2025_Contributions-670+-f8d847?style=for-the-badge&logo=github&logoColor=black" alt="2025 Contributions"/>
+  <img src="https://img.shields.io/badge/Longest_Streak-29_Days-4ECDC4?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Longest Streak"/>
+  <img src="https://img.shields.io/badge/Public_Repos-32-764ba2?style=for-the-badge&logo=github&logoColor=white" alt="Public Repos"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harihara04sudhan&theme=radical" alt="GitHub Stats" height="180px"/>
   <img src="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=radical&hide_border=true" alt="GitHub Streak" height="180px"/>
 </div>
 
@@ -421,6 +437,6 @@ Medical Impact:
   <br/><br/>
   
   <p>
-    <em>"The best way to predict the future is to create it." - Peter Drucker</em>
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
   </p>
 </div>
