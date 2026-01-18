@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/🚀_AVAILABLE_FOR-Freelance_Projects-4ECDC4?style=for-the-badge&labelColor=45B7D1&color=4ECDC4" alt="Freelance"/>
 </div>
 
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="35" height="35"/>
   Full Stack Developer & AI/ML Engineer
