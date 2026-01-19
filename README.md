@@ -37,7 +37,6 @@
     </a>
   </p>
 </div>
-
 <br/>
 
 <!-- GitHub Achievements/Trophies using shields.io (always works) -->
