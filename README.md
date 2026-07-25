@@ -9,8 +9,8 @@
   <a href="https://instagram.com/hari__sudhan___"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <br/>
   <a href="mailto:harisudhan2284@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.leetcode.com/user9416kw"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://www.hackerrank.com/profile/harionlyaiuse241"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+  <!-- <a href="https://www.leetcode.com/user9416kw"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode"/></a> -->
+  <!-- <a href="https://www.hackerrank.com/profile/harionlyaiuse241"><img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a> -->
   <img src="https://komarev.com/ghpvc/?username=Harihara04sudhan&color=A78BFA&style=flat-square&label=visitors" alt="Profile views"/>
 </div>
 <br/>
