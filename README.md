@@ -19,15 +19,15 @@
 
 ### About Me
 
-I build the security layer for AI agents.
+Founding engineer at **[ArmorIQ](https://armoriq.ai)**, where we're building the security layer for AI agents.
 
-Founding engineer at **ArmorIQ** — policy enforcement, sandboxed tool execution, intent classification, and audit-grade logging, so teams can run agents under real enterprise governance. I built our SDK, which is the surface clients develop against.
+Agents authenticate fine and still act outside the task they were given — reading data they weren't asked to touch, calling APIs nobody approved. Guardrails stop bad responses; we stop bad actions: capturing what an agent plans to do, evaluating that intent against identity and policy *before* it executes, and leaving a tamper-evident record of every decision.
 
 Before this, production LLM systems: latency-aware model routing at **Ionic Protocol** serving 500+ queries/min for DeFi workloads, and agent orchestration at **OnlyStack** that cut manual response load by 60%.
 
 Still active on the research side — Attention U-Net for tumor segmentation at **NIT Trichy**, and radar-based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy-first by design, no cameras.
 
-What ties it together is a bias toward the unglamorous parts — guardrails, latency budgets, and what happens when the model is wrong.
+What ties it together is a bias toward the unglamorous parts — enforcement paths, latency budgets, and what a system does when the model gets it wrong.
 
 ---
 
