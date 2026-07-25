@@ -21,13 +21,13 @@
 
 Founding engineer at **[ArmorIQ](https://armoriq.ai)**, where we're building the security layer for AI agents.
 
-Agents authenticate fine and still act outside the task they were given — reading data they weren't asked to touch, calling APIs nobody approved. Guardrails stop bad responses; we stop bad actions: capturing what an agent plans to do, evaluating that intent against identity and policy *before* it executes, and leaving a tamper-evident record of every decision.
+Agents authenticate fine and still act outside the task they were given. They read data they weren't asked to touch and call APIs nobody approved. Guardrails stop bad responses; we stop bad actions: capturing what an agent plans to do, evaluating that intent against identity and policy *before* it executes, and leaving a tamper evident record of every decision.
 
-Before this, production LLM systems: latency-aware model routing at **Ionic Protocol** serving 500+ queries/min for DeFi workloads, and agent orchestration at **OnlyStack** that cut manual response load by 60%.
+Before this, production LLM systems: latency aware model routing at **Ionic Protocol** serving 500+ queries/min for DeFi workloads, and agent orchestration at **OnlyStack** that cut manual response load by 60%.
 
-Still active on the research side — Attention U-Net for tumor segmentation at **NIT Trichy**, and radar-based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy-first by design, no cameras.
+Still active on the research side, with Attention U-Net for tumor segmentation at **NIT Trichy** and radar based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy first by design, no cameras.
 
-What ties it together is a bias toward the unglamorous parts — enforcement paths, latency budgets, and what a system does when the model gets it wrong.
+What ties it together is a bias toward the unglamorous parts: enforcement paths, latency budgets, and what a system does when the model gets it wrong.
 
 ---
 
