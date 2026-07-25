@@ -25,7 +25,7 @@ Founding engineer at **ArmorIQ** — policy enforcement, sandboxed tool executio
 
 Before this, production LLM systems: latency-aware model routing at **Ionic Protocol** serving 500+ queries/min for DeFi workloads, and agent orchestration at **OnlyStack** that cut manual response load by 60%.
 
-Still active on the research side — Attention U-Net for tumor segmentation at **NIT Trichy** (co-authored paper), and radar-based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy-first by design, no cameras.
+Still active on the research side — Attention U-Net for tumor segmentation at **NIT Trichy**, and radar-based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy-first by design, no cameras.
 
 What ties it together is a bias toward the unglamorous parts — guardrails, latency budgets, and what happens when the model is wrong.
 
