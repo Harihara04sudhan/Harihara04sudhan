@@ -19,12 +19,15 @@
 
 ### About Me
 
-I'm a developer who enjoys building things end-to-end — from training ML models to deploying full-stack apps. I work primarily with **Python**, **TypeScript**, **React/Next.js**, and **Node.js** on the web side, and **PyTorch/TensorFlow** for ML.
+I build the security layer for AI agents.
 
-Currently focused on:
-- Shipping real products (not just tutorials)
-- Exploring AI agents & tool-use patterns (MCP servers, Claude integrations)
-- Building scalable full-stack applications
+Founding engineer at **ArmorIQ** — policy enforcement, sandboxed tool execution, intent classification, and audit-grade logging, so teams can run agents under real enterprise governance. I built our SDK, which is the surface clients develop against.
+
+Before this, production LLM systems: latency-aware model routing at **Ionic Protocol** serving 500+ queries/min for DeFi workloads, and agent orchestration at **OnlyStack** that cut manual response load by 60%.
+
+Still active on the research side — Attention U-Net for tumor segmentation at **NIT Trichy** (co-authored paper), and radar-based fall detection for elderly care at **Anna University**: LSTM/CNN on Jetson Nano with TensorRT, privacy-first by design, no cameras.
+
+What ties it together is a bias toward the unglamorous parts — guardrails, latency budgets, and what happens when the model is wrong.
 
 ---
 
