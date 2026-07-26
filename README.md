@@ -62,6 +62,8 @@ Currently focused on:
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harihara04sudhan&theme=github_dark" height="160px"/>
   <img src="https://streak-stats.demolab.com?user=Harihara04sudhan&theme=github_dark&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="160px"/>
+  <br/>
+  <sub>Stats card &mdash; commits are current-year; stars, PRs and issues are all-time, public repos only.</sub>
 </div>
 
 <div align="center">
